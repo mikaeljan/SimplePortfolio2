@@ -7,7 +7,7 @@ No frameworks (Bootstrap, Foundation) were used.
 For launching please open index.html file.
 
 Link to the webpage:
-http://mikaeljan.github.io/UdacitySecondProject/
+http://mikaeljan.github.io/SimplePortfolio2/
 
 For any questions please feel free to contact me:
 mikael.janek@gmail.com
