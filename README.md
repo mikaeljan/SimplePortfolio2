@@ -6,8 +6,8 @@ No frameworks (Bootstrap, Foundation) were used.
 
 For launching please open index.html file.
 
-Link to the webpage:
-http://mikaeljan.github.io/SimplePortfolio2/
+## Live [demo](http://mikaeljan.github.io/SimplePortfolio2/)
 
-For any questions please feel free to contact me:
-mikael.janek@gmail.com
+## Contact
+For any questions please feel free to contact me:<br />
+<a href="mailto:mikael.janek@gmail.com">mikael.janek@gmail.com</a>
